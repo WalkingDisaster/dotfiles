@@ -1,3 +1,3 @@
 #!/bin/sh
 
-# TODO Any bootstrapping by shell... possibly starting a daemon
+chmod +x create_ssh_key.sh
